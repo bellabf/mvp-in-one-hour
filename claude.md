@@ -17,9 +17,7 @@ The AI must ask the steps
 
 ## Technical Stack
 - Google Colab (Python 3.8+)
-- LangChain (prompt management) 1.0
-- OpenAI or Anthropic API (LLM)
-- LangSmith (evaluation & monitoring)
+- OpenAI API (LLM)
 - Pydantic (output validation)
 
 ## Quality Requirements
